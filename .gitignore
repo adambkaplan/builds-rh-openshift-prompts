@@ -1,0 +1,3 @@
+# Ignore Cursor MCP configuration
+# This can contain sensitive information such as API keys and tokens
+.cursor/mcp.json
