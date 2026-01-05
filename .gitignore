@@ -1,3 +1,7 @@
 # Ignore Cursor MCP configuration
 # This can contain sensitive information such as API keys and tokens
 .cursor/mcp.json
+
+# The plans/ directory is a scratch workspace for AI agents to draft GitHub issue text.
+# This allows developers to review and manually edit issue text before they are created.
+plans/
